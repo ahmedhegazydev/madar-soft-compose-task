@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MadarSoftTask</string>
+    <string name="save_and_view_users">Save and View Users</string>
+    <string name="gender">Gender</string>
+    <string name="job_title">Job Title</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
+    <string name="job_title_cannot_be_empty">Job Title cannot be empty</string>
+    <string name="gender_cannot_be_empty">Gender cannot be empty</string>
+    <string name="age_must_be_a_number">Age must be a number</string>
+    <string name="age_must_be_greater_than_zero">Age must be greater than zero</string>
+    <string name="name_cannot_be_empty">Name cannot be empty</string>
+    <string name="age_cannot_be_empty">Age cannot be empty</string>
+</resources>
